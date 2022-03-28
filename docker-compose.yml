@@ -17,3 +17,6 @@
     #   - 5000:5000
     volumes:
       - ./app:/app
+
+      #sdsdsd
+      
